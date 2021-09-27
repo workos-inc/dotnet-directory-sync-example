@@ -1,4 +1,4 @@
-﻿# dotnet-dsync-example
+﻿# dotnet-directory-sync-example
 
 An example application demonstrating how Directory Sync works with WorkOS and .NET.
 
